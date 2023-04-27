@@ -1,0 +1,16 @@
+footer {
+    background-color:#121212;
+    margin-top: 50px;
+    margin-bottom: 0;
+    color: #fff;
+    text-align: center;
+    position: relative;
+    bottom: 0;
+    width: 100%;
+  }
+
+  .a2 {
+    color: #fff;
+    text-decoration: none;
+    margin: 0 10px;
+  }

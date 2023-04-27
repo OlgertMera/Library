@@ -1,0 +1,28 @@
+.top-part {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    border-bottom: 1px solid #666;
+    box-shadow: 5px 5px 10px #666;
+    background-image: linear-gradient(to right, white, darkgray, gray);
+
+}
+.hB {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 60px;
+    color:rgb(255, 128, 0);
+    text-align: center;
+    text-shadow: 2px 2px #002e03;
+    margin-top: 10px;
+    margin-bottom: 0%;
+}
+
+.hA {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 60px;
+    color: #008566;
+    text-shadow: 2px 2px #002e03;
+    text-align: center;
+    margin-top: 0;
+    margin-bottom: 10px;
+  }  

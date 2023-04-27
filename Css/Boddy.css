@@ -1,0 +1,36 @@
+body {
+    margin: 0;
+}
+
+#scroll-up-btn {
+    display: none; /* hide the button by default */
+    position: fixed; /* make the button fixed in the viewport */
+    bottom: 20px; /* position the button 20px from the bottom */
+    right: 20px; /* position the button 20px from the right */
+    z-index: 9999; /* set the z-index high to make sure the button is on top */
+    font-size: 30px;
+    line-height: 1.5;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 0;
+    padding-bottom: 8px;
+    /* padding */
+    background-color: #282828;
+    color: #fff;
+    border: none;
+    border-radius: 15px;
+    cursor: pointer;
+  }
+  
+  #scroll-up-btn:hover {
+    background-color: #3d3d3d;
+  }
+
+  .dark-mode {
+    background-color: #333;
+  }
+
+
+
+  
+  
